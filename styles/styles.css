@@ -1,22 +1,30 @@
 /* about styles */
-
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 .about {
-    background-color: rgb(20, 17, 221);
+    background-color: yellow;
 }
 
 /* project styles */
 
 .projects {
     background-color: chocolate;
+    margin-top: 100px;
+    margin-bottom: 300px;
+    margin-left: 60px;
+    margin-right: 90px;
+
+
 }
 
 .project title {
-    font-size: 80px;
-    color: rgb(9, 209, 9);
+    font-size: 45px;
+    color: blue;
 } 
 /* work styles */
 .work {
-    background-color: rgb(255, 0, 170);
+    background-color: cyan;
 }
 /* education syeles */
 .education {
