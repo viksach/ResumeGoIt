@@ -1,0 +1,24 @@
+/* about styles */
+
+.about {
+    background-color: rgb(20, 17, 221);
+}
+
+/* project styles */
+
+.projects {
+    background-color: chocolate;
+}
+
+.project title {
+    font-size: 80px;
+    color: rgb(9, 209, 9);
+} 
+/* work styles */
+.work {
+    background-color: rgb(255, 0, 170);
+}
+/* education syeles */
+.education {
+    background-color: darkblue;
+}
